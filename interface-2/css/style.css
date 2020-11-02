@@ -1,4 +1,10 @@
-div.w-64 
+#report
 {
     background-color: #468DF1;
+    width: 318px;
+    font-weight: 200;
+}
+
+.border-b {
+    border-bottom: 0.001em solid lightgray;
 }
