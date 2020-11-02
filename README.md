@@ -14,6 +14,16 @@ Made with HTML and Tailwind-framework, added with some custom CSS. Would have be
 - [Interface 2](interface-2)
 
 ### Interface 3
-...
+Again, try to pixel-perfect copy the image. This time I used HTML and Tailwind-CSS with just a small amount of custom CSS, specifically padding, height and width as these values are limited with the framework.
 - [Interface 3](interface-3)
+
+## Tools :hammer:
+Tools used during the exercise:
+- VSCode
+- Tailwind-framework
+- Git and Github
+- Google
+
+## Results
+Click to see: this [page](https://chadriae.github.io/css-integration/).
 
