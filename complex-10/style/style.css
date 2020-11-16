@@ -1,0 +1,101 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+#mockup {
+  width: 1229px;
+  height: 442px;
+  background-image: url(../complex.10.png);
+
+  position: absolute;
+  top: 5px;
+  left: 5px;
+
+  opacity: 0.5;
+  z-index: 10;
+  pointer-events: none;
+}
+
+#widget {
+  width: 1229px;
+  height: 442px;
+  margin: 5px 10px 0 10px;
+  padding: 0 20px 0 20px;
+  background-color: #e2e2e2;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  width: 283px;
+  height: 410px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cardTop {
+  text-transform: uppercase;
+  width: 283px;
+  height: 23px;
+  background-color: white;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.cardTop h3 {
+  font-size: x-small;
+  padding: 6px 0 0 0;
+}
+
+.cardBottom {
+  height: 388px;
+  width: 283px;
+  margin: 2px 0 0 0;
+  background-color: white;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+img {
+  padding-top: 25px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.cardBottom h2 {
+  font-size: 15pt;
+  font-family: serif;
+}
+
+.cardBottom p {
+  padding: 0 25px 0 25px;
+  font-size: 10pt;
+  line-height: 1.5;
+  margin-right: auto;
+  margin-left: auto;
+  color: #8c8c8c;
+}
+
+#bottomButtons {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e2e2e2;
+  border-radius: 20px;
+  width: 50px;
+  height: 30px;
+}
+
+#icon1,
+#icon2,
+#icon3 {
+  padding: 10px 0 0 0;
+  height: 12px;
+  width: 12px;
+}
